@@ -136,11 +136,4 @@ We welcome contributions! Follow these steps to contribute:
 
 ---
 
-
-### **📩 Contact**
-For any questions, feel free to reach out:
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-name)
-
 Happy Coding! 🚀
