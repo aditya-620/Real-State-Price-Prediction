@@ -136,10 +136,6 @@ We welcome contributions! Follow these steps to contribute:
 
 ---
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ### **📩 Contact**
 For any questions, feel free to reach out:
